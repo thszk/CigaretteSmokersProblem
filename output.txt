@@ -1,104 +1,46 @@
 ----------- WELCOME TO TOBACCO SHOP -----------
-The Supplier put on table TOBACCO
+The Supplier put on table PAPER
 The Supplier put on table MATCHES
 Smoker #2 have MATCHES
-Smoker #1 have PAPER
 Smoker #0 have TOBACCO
-Smoker #1 takes TOBACCO
-Smoker #1 takes MATCHES
-Smoker #2 tried to check table and hadn't lucky
-Smoker #1 are SMOKING
-Smoker #0 tried to check table and hadn't lucky
-Smoker #1 are FINISHED
-Smoker #1 tried to check table and hadn't lucky
-Smoker #0 tried to check table and hadn't lucky
-Smoker #2 tried to check table and hadn't lucky
-The Supplier put on table TOBACCO
-The Supplier put on table MATCHES
-Smoker #1 takes TOBACCO
-Smoker #1 takes MATCHES
-Smoker #1 are SMOKING
-Smoker #0 tried to check table and hadn't lucky
-Smoker #2 tried to check table and hadn't lucky
-Smoker #1 are FINISHED
-Smoker #1 tried to check table and hadn't lucky
-The Supplier put on table MATCHES
-The Supplier put on table PAPER
-Smoker #0 takes MATCHES
+Smoker #1 have PAPER
 Smoker #0 takes PAPER
-Smoker #2 tried to check table and hadn't lucky
+Smoker #0 takes MATCHES
 Smoker #0 are SMOKING
+Smoker #1 tried to check table and hadn't lucky
+Smoker #2 tried to check table and hadn't lucky
 Smoker #0 are FINISHED
 Smoker #0 tried to check table and hadn't lucky
-The Supplier put on table TOBACCO
 The Supplier put on table PAPER
-Smoker #1 tried to check table and hadn't lucky
-Smoker #2 takes TOBACCO
-Smoker #2 takes PAPER
-Smoker #2 are SMOKING
-Smoker #2 are FINISHED
-Smoker #2 tried to check table and hadn't lucky
-Smoker #0 tried to check table and hadn't lucky
-Smoker #1 tried to check table and hadn't lucky
-The Supplier put on table MATCHES
 The Supplier put on table TOBACCO
-Smoker #2 tried to check table and hadn't lucky
-Smoker #0 tried to check table and hadn't lucky
-Smoker #1 takes MATCHES
-Smoker #1 takes TOBACCO
-Smoker #1 are SMOKING
-Smoker #1 are FINISHED
 Smoker #1 tried to check table and hadn't lucky
-The Supplier put on table TOBACCO
-The Supplier put on table PAPER
-Smoker #2 takes TOBACCO
 Smoker #2 takes PAPER
+Smoker #2 takes TOBACCO
 Smoker #2 are SMOKING
 Smoker #0 tried to check table and hadn't lucky
 Smoker #2 are FINISHED
 Smoker #2 tried to check table and hadn't lucky
-The Supplier put on table MATCHES
 The Supplier put on table PAPER
-Smoker #1 tried to check table and hadn't lucky
-Smoker #0 takes MATCHES
-Smoker #0 takes PAPER
-Smoker #0 are SMOKING
-Smoker #2 tried to check table and hadn't lucky
-Smoker #1 tried to check table and hadn't lucky
-Smoker #0 are FINISHED
-Smoker #0 tried to check table and hadn't lucky
-The Supplier put on table MATCHES
 The Supplier put on table TOBACCO
+Smoker #1 tried to check table and hadn't lucky
+Smoker #0 tried to check table and hadn't lucky
+Smoker #2 takes PAPER
+Smoker #2 takes TOBACCO
+Smoker #2 are SMOKING
+Smoker #1 tried to check table and hadn't lucky
+Smoker #2 are FINISHED
 Smoker #2 tried to check table and hadn't lucky
-Smoker #1 takes MATCHES
+Smoker #0 tried to check table and hadn't lucky
+The Supplier put on table TOBACCO
+The Supplier put on table MATCHES
 Smoker #1 takes TOBACCO
+Smoker #1 takes MATCHES
 Smoker #1 are SMOKING
+Smoker #2 tried to check table and hadn't lucky
 Smoker #0 tried to check table and hadn't lucky
 Smoker #1 are FINISHED
 Smoker #1 tried to check table and hadn't lucky
-The Supplier put on table PAPER
-The Supplier put on table MATCHES
-Smoker #2 tried to check table and hadn't lucky
-Smoker #0 takes PAPER
-Smoker #0 takes MATCHES
-Smoker #0 are SMOKING
-Smoker #0 are FINISHED
-Smoker #0 tried to check table and hadn't lucky
-Smoker #1 tried to check table and hadn't lucky
-Smoker #2 tried to check table and hadn't lucky
-The Supplier put on table MATCHES
-The Supplier put on table PAPER
-Smoker #0 takes MATCHES
-Smoker #0 takes PAPER
-Smoker #0 are SMOKING
-Smoker #1 tried to check table and hadn't lucky
-Smoker #2 tried to check table and hadn't lucky
-Smoker #0 are FINISHED
-Smoker #0 tried to check table and hadn't lucky
 The Supplier put on table TOBACCO
-The Supplier put on table PAPER
-Smoker #1 tried to check table and hadn't lucky
-Smoker #2 takes TOBACCO
-Smoker #2 takes PAPER
-Smoker #2 are SMOKING
+The Supplier put on table MATCHES
+Smoker #2 tried to check table and hadn't lucky
 Smoker #0 tried to check table and hadn't lucky

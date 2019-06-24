@@ -8,8 +8,8 @@
 // SMOKING = -1
 // WAITING = -2
 
-import java.io.FileOutputStream;
-import java.io.PrintStream;
+//import java.io.FileOutputStream;
+//import java.io.PrintStream;
 import java.util.Random;
 import java.util.concurrent.Semaphore;
 
@@ -18,7 +18,7 @@ class TobaccoShop {
     public static void main(String[] args) {
 
         try { // sets the default I/O to the text file
-            System.setOut(new PrintStream(new FileOutputStream(System.getProperty("user.dir")+"/output.txt", false)));
+//            System.setOut(new PrintStream(new FileOutputStream(System.getProperty("user.dir")+"/output.txt", false)));
         } catch (Exception e) {
             System.out.println(e);
         }
